@@ -1,5 +1,5 @@
 # 💫 About Me:
-⏳ I`m currently work on various projects that I use in my casual days.<br>😍 I`m crazy about programming and have a big experience.<br>🎓 I know several programming languages such as Java, C++, Javascript etc.<br>📣 I`m looking for apportunity where can I increase my programming skills and experience.<br>⚡ Fun fact: I prefer cacao instead of cofee
+⏳ I'm currently work on various projects that I use in my casual days.<br>😍 I'm crazy about programming and have a big experience.<br>🎓 I know several programming languages such as Java, C++, Javascript etc.<br>📣 I'm looking for apportunity where can I increase my programming skills and experience.<br>⚡ Fun fact: I prefer cacao instead of cofee
 
 
 ## 🌐 Socials:
